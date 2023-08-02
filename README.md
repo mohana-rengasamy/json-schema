@@ -16,7 +16,7 @@ objects against a JSON schema conforming to [JSON Schema Draft
 [JSON Schema Draft 1](http://tools.ietf.org/html/draft-zyp-json-schema-01) is
 also included.
 
-Additional Resources
+Additional Resources 
 --------------------
 
 - [Google Groups](https://groups.google.com/forum/#!forum/ruby-json-schema)
